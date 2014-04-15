@@ -10,5 +10,7 @@
     <string name="zaxis">Average</string>
     <string name="step">Steps:</string>
     <string name="reset">Reset</string>
+    <string name="plusb">+</string>
+    <string name="minusb">-</string>
 
 </resources>
